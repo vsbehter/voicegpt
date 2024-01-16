@@ -1,7 +1,7 @@
 import openai
 
 # Configure your OpenAI GPT API key
-openai.api_key = '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'
+openai.api_key = 'YOUR_OPENAI_API_KEY'
 
 def generate_gpt_response(text):
     response = openai.Completion.create(
