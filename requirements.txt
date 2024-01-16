@@ -1,0 +1,4 @@
+Flask==2.1.4
+Twilio==6.77.0
+openai==v0.27.0  # or the version you are using
+gunicorn==20.1.0
